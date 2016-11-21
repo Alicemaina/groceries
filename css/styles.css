@@ -1,0 +1,31 @@
+#results {
+    display: none;
+}
+body {
+    background-image: url("../img/Save-money-on-groceries-without-coupons-Never-shop-hungry.jpg");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: right;
+}
+h1 {
+    font-size: 4em;
+}
+.jumbotron {
+    text-align: center;
+    background:#32CD32;
+    margin-right: 24%;
+}
+
+#form1 {
+    padding: 20px;
+    margin-right: 24%;
+}
+
+#results {
+    margin-right: 24%;
+    padding: 20px;
+}
+
+li {
+    padding: 5px;
+}
